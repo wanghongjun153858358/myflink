@@ -14,7 +14,7 @@ public class Java8Test {
         map.put(40, "watermelon");
         map.put(50, "dragonfruit");
         map.put(60, "dragonfruit");
-        map.put(70,"red");
+        map.put(70,"red123");
 //        System.out.println("\n1. Export Map Key to List...");
 //        List<Integer> result = new ArrayList(map.keySet());
 //        result.forEach(System.out::println);

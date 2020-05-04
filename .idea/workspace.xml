@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0939c61e-db1b-4733-b7b5-226728ac1e65" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="learning-flink" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Package Object" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>compute</find>
+      <find>userMapStateDesc</find>
+      <find>configStateDescriptor</find>
+    </findStrings>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/BaiduNetdiskDownload/apache-maven-3.3.9-bin/apache-maven-3.3.9" />
+        <option name="userSettingsFile" value="D:\BaiduNetdiskDownload\apache-maven-3.3.9-bin\apache-maven-3.3.9\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+    <option name="disabledProfiles">
+      <list>
+        <option value="JDK-1.8" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XFETnXWapY1yAZaNMUWWRxtgnw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../canal/deployer" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2954023" />
+    <property name="settings.editor.selected.configurable" value="Lombok plugin" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.dajiangtai.stream" />
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\study\flink\learning-flink\src\main\java\com\dajiangtai\stream\userPurchaseBehaviorTracker\simulator" />
+      <recent name="D:\study\flink\learning-flink\dictionaries" />
+      <recent name="D:\study\flink\learning-flink\src\main\java\com\dajiangtai\stream\simulator" />
+      <recent name="D:\study\flink\learning-flink\src\main\java\com\dajiangtai\stream\userPurchaseBehaviorTracker\model" />
+      <recent name="D:\study\flink\learning-flink\src\main\java\com\dajiangtai\stream\userPurchaseBehaviorTracker\schema" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.TestKeyedState">
+    <configuration name="CountForMySourceStream" type="Application" factoryName="Application" temporary="true">
+      <option name="INCLUDE_PROVIDED_SCOPE" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.red.stream.window.CountForMySource" />
+      <module name="UserEventsSimulator" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.red.stream.window.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DataSourceUnion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="INCLUDE_PROVIDED_SCOPE" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.red.stream.window.DataSourceUnion" />
+      <module name="UserEventsSimulator" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.red.stream.window.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StreamingKafkaProducer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.red.stream.kafkaconnector.StreamingKafkaProducer" />
+      <module name="UserEventsSimulator" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.red.stream.kafkaconnector.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestKeyedState" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="INCLUDE_PROVIDED_SCOPE" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.red.stream.keyedstate.TestKeyedState" />
+      <module name="UserEventsSimulator" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.red.stream.keyedstate.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WordCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="INCLUDE_PROVIDED_SCOPE" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.red.batch.WordCount" />
+      <module name="UserEventsSimulator" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.red.batch.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.WordCount" />
+      <item itemvalue="Application.CountForMySourceStream" />
+      <item itemvalue="Application.DataSourceUnion" />
+      <item itemvalue="Application.StreamingKafkaProducer" />
+      <item itemvalue="Application.TestKeyedState" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TestKeyedState" />
+        <item itemvalue="Application.WordCount" />
+        <item itemvalue="Application.StreamingKafkaProducer" />
+        <item itemvalue="Application.DataSourceUnion" />
+        <item itemvalue="Application.CountForMySourceStream" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",VISIBILITY_SORTER" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0939c61e-db1b-4733-b7b5-226728ac1e65" name="Default Changelist" comment="" />
+      <created>1559468467969</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1559468467969</updated>
+      <workItem from="1559468469855" duration="6175000" />
+      <workItem from="1559527140330" duration="10453000" />
+      <workItem from="1559545654649" duration="2150000" />
+      <workItem from="1559616532745" duration="564000" />
+      <workItem from="1559975711189" duration="13797000" />
+      <workItem from="1560043809649" duration="11583000" />
+      <workItem from="1560171756481" duration="4083000" />
+      <workItem from="1560245122262" duration="5416000" />
+      <workItem from="1560307429005" duration="5051000" />
+      <workItem from="1560493675204" duration="9899000" />
+      <workItem from="1560731999574" duration="6168000" />
+      <workItem from="1560817607600" duration="3141000" />
+      <workItem from="1560929083721" duration="6107000" />
+      <workItem from="1561010550209" duration="9163000" />
+      <workItem from="1561036320904" duration="885000" />
+      <workItem from="1561037549004" duration="2407000" />
+      <workItem from="1561097621913" duration="8428000" />
+      <workItem from="1561196111495" duration="7121000" />
+      <workItem from="1561274816405" duration="51000" />
+      <workItem from="1561277269167" duration="7200000" />
+      <workItem from="1561336265915" duration="19623000" />
+      <workItem from="1561424890505" duration="3601000" />
+      <workItem from="1580633456727" duration="2178000" />
+      <workItem from="1580636290914" duration="1798000" />
+      <workItem from="1580704455847" duration="2491000" />
+      <workItem from="1580813363282" duration="435000" />
+      <workItem from="1580813851946" duration="82000" />
+      <workItem from="1580813952200" duration="36000" />
+      <workItem from="1580814082326" duration="54000" />
+      <workItem from="1581131239847" duration="466000" />
+      <workItem from="1581131741424" duration="2346000" />
+      <workItem from="1581141966131" duration="1637000" />
+      <workItem from="1581143628468" duration="1566000" />
+      <workItem from="1581145415129" duration="328000" />
+      <workItem from="1581145769450" duration="3649000" />
+      <workItem from="1581149983765" duration="521000" />
+      <workItem from="1581150532423" duration="1062000" />
+      <workItem from="1581151672501" duration="2466000" />
+      <workItem from="1581155618877" duration="2833000" />
+      <workItem from="1581161134200" duration="75000" />
+      <workItem from="1581161237837" duration="82000" />
+      <workItem from="1581217955623" duration="2587000" />
+      <workItem from="1581234849954" duration="1589000" />
+      <workItem from="1581239708652" duration="5895000" />
+      <workItem from="1581302335203" duration="4557000" />
+      <workItem from="1581313288537" duration="16789000" />
+      <workItem from="1581397697392" duration="1985000" />
+      <workItem from="1581407078115" duration="1246000" />
+      <workItem from="1581512254717" duration="2146000" />
+      <workItem from="1581573142493" duration="21693000" />
+      <workItem from="1581739873543" duration="886000" />
+      <workItem from="1581741337817" duration="31000" />
+      <workItem from="1581906321706" duration="35078000" />
+      <workItem from="1582082151115" duration="9751000" />
+      <workItem from="1582112285885" duration="2464000" />
+      <workItem from="1582164753629" duration="776000" />
+      <workItem from="1582893804119" duration="119000" />
+      <workItem from="1582972780908" duration="54000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="498" y="170" key="#ConfigSimulator" timestamp="1581398343750">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state x="498" y="170" key="#ConfigSimulator/0.0.1707.1027@0.0.1707.1027" timestamp="1581398343750" />
+    <state x="454" y="178" key="#Custom_Plugin_Repositories" timestamp="1581150100379">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state x="454" y="178" key="#Custom_Plugin_Repositories/0.0.1707.1027@0.0.1707.1027" timestamp="1581150100379" />
+    <state x="454" y="178" key="#HTTP_Proxy" timestamp="1581151629145">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state x="454" y="178" key="#HTTP_Proxy/0.0.1707.1027@0.0.1707.1027" timestamp="1581151629145" />
+    <state x="533" y="170" key="#Launcher" timestamp="1581341079157">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state x="533" y="170" key="#Launcher/0.0.1707.1027@0.0.1707.1027" timestamp="1581341079157" />
+    <state x="486" y="170" key="#UserEventsSimulator" timestamp="1581681743730">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state x="486" y="170" key="#UserEventsSimulator/0.0.1707.1027@0.0.1707.1027" timestamp="1581681743730" />
+    <state x="415" y="149" width="1089" height="752" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582893876762">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state x="415" y="149" width="1089" height="752" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1707.1027@0.0.1707.1027" timestamp="1582893876762" />
+    <state x="945" y="209" key="#com.intellij.ide.util.MemberChooser" timestamp="1582088107077">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state x="945" y="209" key="#com.intellij.ide.util.MemberChooser/0.0.1707.1027@0.0.1707.1027" timestamp="1582088107077" />
+    <state x="565" y="396" width="593" height="292" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1581909575599">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state x="565" y="396" width="593" height="292" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1707.1027@0.0.1707.1027" timestamp="1581909575599" />
+    <state x="861" y="369" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog" timestamp="1581659508293">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state x="861" y="369" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog/0.0.1707.1027@0.0.1707.1027" timestamp="1581659508293" />
+    <state x="634" y="269" key="FileChooserDialogImpl" timestamp="1582972821726">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state x="634" y="269" key="FileChooserDialogImpl/0.0.1707.1027@0.0.1707.1027" timestamp="1582972821726" />
+    <state width="1663" height="598" key="GridCell.Tab.0.bottom" timestamp="1582893923151">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state width="1663" height="598" key="GridCell.Tab.0.bottom/0.0.1707.1027@0.0.1707.1027" timestamp="1582893923151" />
+    <state width="1663" height="598" key="GridCell.Tab.0.center" timestamp="1582893923151">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state width="1663" height="598" key="GridCell.Tab.0.center/0.0.1707.1027@0.0.1707.1027" timestamp="1582893923151" />
+    <state width="1663" height="598" key="GridCell.Tab.0.left" timestamp="1582893923151">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state width="1663" height="598" key="GridCell.Tab.0.left/0.0.1707.1027@0.0.1707.1027" timestamp="1582893923151" />
+    <state width="1663" height="598" key="GridCell.Tab.0.right" timestamp="1582893923151">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state width="1663" height="598" key="GridCell.Tab.0.right/0.0.1707.1027@0.0.1707.1027" timestamp="1582893923151" />
+    <state width="1663" height="359" key="GridCell.Tab.1.bottom" timestamp="1582037852492">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state width="1663" height="359" key="GridCell.Tab.1.bottom/0.0.1707.1027@0.0.1707.1027" timestamp="1582037852492" />
+    <state width="1663" height="359" key="GridCell.Tab.1.center" timestamp="1582037852492">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state width="1663" height="359" key="GridCell.Tab.1.center/0.0.1707.1027@0.0.1707.1027" timestamp="1582037852492" />
+    <state width="1663" height="359" key="GridCell.Tab.1.left" timestamp="1582037852492">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state width="1663" height="359" key="GridCell.Tab.1.left/0.0.1707.1027@0.0.1707.1027" timestamp="1582037852492" />
+    <state width="1663" height="359" key="GridCell.Tab.1.right" timestamp="1582037852492">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state width="1663" height="359" key="GridCell.Tab.1.right/0.0.1707.1027@0.0.1707.1027" timestamp="1582037852492" />
+    <state x="384" y="169" key="Maven.ArtifactSearchDialog" timestamp="1581143657405">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state x="384" y="169" key="Maven.ArtifactSearchDialog/0.0.1707.1027@0.0.1707.1027" timestamp="1581143657405" />
+    <state x="611" y="177" key="SettingsEditor" timestamp="1581659603777">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state x="611" y="177" key="SettingsEditor/0.0.1707.1027@0.0.1707.1027" timestamp="1581659603777" />
+    <state x="538" y="338" key="com.intellij.ide.util.TipDialog" timestamp="1582972786281">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state x="538" y="338" key="com.intellij.ide.util.TipDialog/0.0.1707.1027@0.0.1707.1027" timestamp="1582972786281" />
+  </component>
+</project>

@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact build-on-make="true" name="Processdata">
+    <output-path>$PROJECT_DIR$/classes/artifacts/Processdata</output-path>
+    <root id="root">
+      <element id="library" level="project" name="Maven: com.alibaba:fastjson:1.2.54" />
+      <element id="library" level="project" name="Maven: log4j:log4j:1.2.17" />
+      <element id="library" level="project" name="Maven: com.cloudwise.toushibao:simulatedata-generator:0.0.1" />
+      <element id="library" level="project" name="Maven: com.esotericsoftware.kryo:kryo:2.24.0" />
+      <element id="library" level="project" name="Maven: com.esotericsoftware.minlog:minlog:1.2" />
+      <element id="library" level="project" name="Maven: com.github.scopt:scopt_2.11:3.5.0" />
+      <element id="library" level="project" name="Maven: com.google.code.findbugs:jsr305:1.3.9" />
+      <element id="library" level="project" name="Maven: com.twitter:chill-java:0.7.6" />
+      <element id="library" level="project" name="Maven: com.twitter:chill_2.11:0.7.6" />
+    </root>
+  </artifact>
+</component>

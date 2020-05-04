@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/UserEventsSimulator.iml" filepath="$PROJECT_DIR$/UserEventsSimulator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WordCountCounter.iml" filepath="$PROJECT_DIR$/WordCountCounter.iml" />
+    </modules>
+  </component>
+</project>
